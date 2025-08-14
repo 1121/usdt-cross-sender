@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/43b22e6d-b868-4fdf-b3ed-c7009fdeeede
+**URL**: https://usdt-cross-sender.lovable.app
 
 ## How can I edit this code?
 
